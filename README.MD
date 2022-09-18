@@ -1,8 +1,6 @@
 This applications is for UI automation with Selenium .
 
 
-Note: Requered libraries are under the lib folder - Make sure to add them in the build path 
-
 Errors:
 
 1. If you get not supported error get the appropriate version from
@@ -14,3 +12,11 @@ https://chromedriver.chromium.org/downloads
  Then run following command fromt he location you have your driver available 
  
  xattr -d com.apple.quarantine chromedriver
+ 
+ 
+ Websites where we can do testing:
+ https://ultimateqa.com/dummy-automation-websites/
+ http://automationpractice.com/index.php
+ 
+ A website giving all solutions about QA tools:
+ https://www.toolsqa.com/
