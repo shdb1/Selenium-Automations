@@ -20,3 +20,4 @@ https://chromedriver.chromium.org/downloads
  
  A website giving all solutions about QA tools:
  https://www.toolsqa.com/
+ https://www.selenium.dev/
