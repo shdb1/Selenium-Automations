@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing Google Apps">
+    <test name="Regression">
+         <classes>
+             <class name="com.shadab.ui.testing.selenium.sample.test.ChromeDriverTest">
+             <methods>
+                 <include name="test1_testTitle" />
+             </methods>
+            </class>
+           </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
