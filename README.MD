@@ -21,3 +21,7 @@ https://chromedriver.chromium.org/downloads
  A website giving all solutions about QA tools:
  https://www.toolsqa.com/
  https://www.selenium.dev/ 
+ 
+ 
+ # Run specific test suit
+  mvn clean test -DsuiteXmlFile=src/test/resources/testsuits/SpecificTestRunnerSuit.xml

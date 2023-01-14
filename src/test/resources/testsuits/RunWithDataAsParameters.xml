@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test data parameters">
+	<parameter name="name" value="Shadab" />
+	<parameter name="country" value="India" />
+	<test name="testGuru">
+		<parameter name="city" value="SRE" />
+		<classes>
+			<class name="com.shadab.ui.testing.selenium.sample.test.ParameterDataDrivenTests">
+			</class>
+		</classes>
+	</test>
+</suite>
